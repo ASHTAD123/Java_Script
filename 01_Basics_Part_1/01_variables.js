@@ -1,7 +1,7 @@
-const accountId = 144553
+const accountId=121212
 let accountEmail = "ash@gmail.com"
 var accountPassword = "123343"
-accountcity = "Mumbai"
+accountcity = "Mumbai" //notrecommended
 
 accountEmail="new@gmail.com"
 // accountId=1212 //not allowed
