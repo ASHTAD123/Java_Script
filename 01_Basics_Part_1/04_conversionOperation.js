@@ -12,4 +12,15 @@ console.log(true)
 console.log(+true)
 console.log(+"")
 
+let a=10;
+let b =a++
+
+console.log("Post fix : " +a);
+
+
+let c=10;
+let d =++c;
+
+console.log("Pre fix : " ,d);
+
 

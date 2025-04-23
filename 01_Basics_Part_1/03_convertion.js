@@ -61,9 +61,11 @@ console.log("Value : " + scoreConvertedToNumber3)
 
 console.log("------------------")
 console.log("")
-console.log("_______Number to Boolean Convertion_______")
+console.log("_________Number to Boolean Convertion_______")
 
 // Number to Boolean conversion
+console.log("For empty string...");
+
 let num="";
 console.log("Value : " +num)
 console.log("Type : " + typeof num)
@@ -73,6 +75,8 @@ console.log("Converting Num to boolean...")
 let boolNum = Boolean(num)
 console.log("Value : " +boolNum)
 console.log("Type : " + typeof num)
+
+console.log();
 
 // 1 => true  0 => false
 // "" to boolean gives us value false
