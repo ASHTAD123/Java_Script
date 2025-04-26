@@ -45,7 +45,6 @@ let myObject ={
     age:24
 }
 
-
 //Function
 function myFun() {
     
